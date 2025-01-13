@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Historia chińskich znaków}{3}{0}{1}
+\beamer@sectionintoc {2}{Zapomniana Man'yougana}{3}{0}{2}
+\beamer@sectionintoc {3}{Obecna katakana oraz hiragana}{3}{0}{3}
+\beamer@sectionintoc {4}{Bibliografia}{3}{0}{4}
